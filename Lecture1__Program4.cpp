@@ -20,5 +20,6 @@ int main()
   cin >> totalScore;
   cout << “The total score was : “ << totalScore << endl;
 
+  // end of program
   return 0;
 }
