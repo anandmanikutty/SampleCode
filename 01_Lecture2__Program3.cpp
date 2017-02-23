@@ -3,6 +3,9 @@ using namespace std;
 
 int main()
 {
+   
+   // simple "interactive program"
+   
    int seconds, minutes;
    
    seconds = 240;
