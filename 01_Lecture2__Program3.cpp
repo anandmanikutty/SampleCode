@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
    
-   // simple "interactive program"
+   // simple "interactive program" -- pre-final version
    
    int seconds, minutes;
    
